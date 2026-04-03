@@ -20,7 +20,7 @@
 
 **Step 4: Task 3 - print_random_quote (Data Collection)**
 - Action: Sends an asynchronous GET request to the ZenQuotes API.
-- Logic: Validates HTTP Status (200 OK) → Parses JSON response → Extracts quote and author.
+- Logic: Validates HTTP Status (200 OK) => Parses JSON response => Extracts quote and author.
 - Output: Pushes the formatted string to XComs (Airflow's internal cross-communication storage).
 
 **Step 5: Task 4 - send_to_telegram (Integration)**

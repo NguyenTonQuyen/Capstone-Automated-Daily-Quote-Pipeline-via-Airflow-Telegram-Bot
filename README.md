@@ -34,3 +34,8 @@
 **Step 6: Finish (Completion)**
 - Result: The user receives a push notification on the Telegram mobile/desktop app.
 - Status: Task is marked as Success (Green) in the Airflow Grid/Graph View.
+
+
+<img width="1919" height="742" alt="image" src="https://github.com/user-attachments/assets/a0688b75-b486-49d1-94a9-8baed35ec40e" />
+
+<img width="422" height="933" alt="image" src="https://github.com/user-attachments/assets/ee7dc591-7144-407c-b4de-b816351fb0d5" />
